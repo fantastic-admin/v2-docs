@@ -340,7 +340,7 @@ const routes: RouteRecordRaw = {
       name: 'Link',
       meta: {
         title: 'Gitee 仓库',
-        link: 'https://gitee.com/hooray/fantastic-admin',
+        link: 'https://gitee.com/fantastic-admin/basic',
       },
     },
   ],
@@ -376,7 +376,7 @@ const routes: RouteRecordRaw = {
       name: 'Iframe',
       meta: {
         title: 'Gitee 仓库',
-        iframe: 'https://gitee.com/hooray/fantastic-admin',
+        iframe: 'https://gitee.com/fantastic-admin/basic',
       },
     },
   ],
