@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a,R as o}from"./chunks/framework.cfa20fa2.js";const u=JSON.parse('{"title":"高级 position:fixed","description":"","frontmatter":{},"headers":[],"relativePath":"guide/position-fixed.md"}'),t={name:"guide/position-fixed.md"},i=o("",4),n=[i];function p(c,d,l,r,_,f){return a(),s("div",null,n)}const h=e(t,[["render",p]]);export{u as __pageData,h as default};

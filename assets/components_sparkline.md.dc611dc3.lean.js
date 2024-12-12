@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,R as d}from"./chunks/framework.cfa20fa2.js";const p=JSON.parse('{"title":"Sparkline 迷你图","description":"","frontmatter":{},"headers":[],"relativePath":"components/sparkline.md"}'),a={name:"components/sparkline.md"},s=d("",3),n=[s];function i(r,o,f,g,x,y){return l(),e("div",null,n)}const h=t(a,[["render",i]]);export{p as __pageData,h as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,R as r}from"./chunks/framework.cfa20fa2.js";const u=JSON.parse('{"title":"更新日志","description":"","frontmatter":{},"headers":[],"relativePath":"guide/changelog.md"}'),i={name:"guide/changelog.md"},o=r("",58),s=[o];function l(m,c,n,p,h,b){return e(),t("div",null,s)}const g=a(i,[["render",l]]);export{u as __pageData,g as default};

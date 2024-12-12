@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,R as d}from"./chunks/framework.cfa20fa2.js";const _=JSON.parse('{"title":"Trend 趋势标记","description":"","frontmatter":{},"headers":[],"relativePath":"components/trend.md"}'),a={name:"components/trend.md"},n=d("",3),s=[n];function r(i,f,o,x,g,y){return l(),e("div",null,s)}const c=t(a,[["render",r]]);export{_ as __pageData,c as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o,R as n}from"./chunks/framework.cfa20fa2.js";const C=JSON.parse('{"title":"代码规范","description":"","frontmatter":{},"headers":[],"relativePath":"guide/coding-standard.md"}'),l={name:"guide/coding-standard.md"},p=n("",21),e=[p];function t(c,r,i,D,F,d){return o(),a("div",null,e)}const u=s(l,[["render",t]]);export{C as __pageData,u as default};

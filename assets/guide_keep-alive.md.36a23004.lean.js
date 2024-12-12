@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,R as l}from"./chunks/framework.cfa20fa2.js";const i=JSON.parse('{"title":"页面缓存","description":"","frontmatter":{},"headers":[],"relativePath":"guide/keep-alive.md"}'),p={name:"guide/keep-alive.md"},o=l("",38),e=[o];function t(c,r,D,F,y,C){return a(),n("div",null,e)}const h=s(p,[["render",t]]);export{i as __pageData,h as default};

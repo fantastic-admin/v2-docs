@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,R as a}from"./chunks/framework.cfa20fa2.js";const c=JSON.parse('{"title":"PageMain 内容块","description":"","frontmatter":{},"headers":[],"relativePath":"components/page-main.md"}'),n={name:"components/page-main.md"},d=a("",5),s=[d];function i(r,o,h,g,f,x){return l(),e("div",null,s)}const _=t(n,[["render",i]]);export{c as __pageData,_ as default};

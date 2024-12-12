@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,R as a}from"./chunks/framework.cfa20fa2.js";const x=JSON.parse('{"title":"SvgIcon SVG图标","description":"","frontmatter":{},"headers":[],"relativePath":"components/svg-icon.md"}'),s={name:"components/svg-icon.md"},n=a("",3),o=[n];function d(i,r,c,g,f,h){return l(),e("div",null,o)}const y=t(s,[["render",d]]);export{x as __pageData,y as default};

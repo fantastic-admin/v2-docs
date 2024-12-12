@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,R as l}from"./chunks/framework.cfa20fa2.js";const d=JSON.parse('{"title":"全局资源","description":"","frontmatter":{},"headers":[],"relativePath":"guide/global-resources.md"}'),p={name:"guide/global-resources.md"},o=l("",25),e=[o];function c(t,r,C,D,y,i){return n(),a("div",null,e)}const A=s(p,[["render",c]]);export{d as __pageData,A as default};

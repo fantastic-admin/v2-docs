@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,R as n}from"./chunks/framework.cfa20fa2.js";const C=JSON.parse('{"title":"构建与预览","description":"","frontmatter":{},"headers":[],"relativePath":"guide/build.md"}'),l={name:"guide/build.md"},o=n("",13),t=[o];function p(c,i,r,d,_,h){return e(),s("div",null,t)}const b=a(l,[["render",p]]);export{C as __pageData,b as default};

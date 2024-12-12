@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,R as l}from"./chunks/framework.cfa20fa2.js";const F=JSON.parse('{"title":"全局状态管理","description":"","frontmatter":{},"headers":[],"relativePath":"guide/store.md"}'),e={name:"guide/store.md"},p=l("",7),o=[p];function t(r,c,i,D,y,A){return n(),a("div",null,o)}const d=s(e,[["render",t]]);export{F as __pageData,d as default};
